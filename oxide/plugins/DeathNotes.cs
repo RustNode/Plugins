@@ -926,7 +926,7 @@ namespace Oxide.Plugins
 
 		internal sealed class RemoteConfiguration<T>
 		{
-			private const string Host = "http://files.laserhydra.com/config/DeathNotes/v6.3.6/";
+			private const string Host = "https://github.com/RustNode/Plugins/tree/main/oxide/data/DeathNotes";
 
 			private readonly string _file;
 
